@@ -1,0 +1,3 @@
+Criar projeto via cmd
+
+flutter create --org br.com."nome do pacote" "nome do projeto"

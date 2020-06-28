@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Deezer/clone-deezer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ineed_teste/ineed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ineed_teste/slidy/ineed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/firstineed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugins" vcs="Git" />
+  </component>
+</project>
